@@ -1,1 +1,2 @@
 SwiftkubeClientEndToEndTests/kube-cmd-kubeconfig.yaml
+*.xcuserstate
